@@ -7,8 +7,8 @@ Multivariate Seq2Seq time series prediction model (Python, Tensorflow)<br/>
 
 논문 Paper<br/>
 https://ictc.org/program_proceeding<br/>
-https://ictc.org/sites/ictc2023a/media?key=site/ictc2023a/abs/P2-17.pdf<br/>
-https://ictc.org/sites/ictc2023a/media?key=site/ictc2023a/abs/P2-18.pdf<br/>
+[https://ictc.org/sites/ictc2023a/media?key=site/ictc2023a/abs/P2-17.pdf](https://ieeexplore.ieee.org/document/10393499)<br/>
+[https://ictc.org/sites/ictc2023a/media?key=site/ictc2023a/abs/P2-18.pdf](https://ieeexplore.ieee.org/document/10393499)<br/>
 
 **단, 다변량 데이터 처리 기법 미공개**<br/>
 
